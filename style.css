@@ -1,0 +1,10 @@
+.box {
+	background-color: rgb(184, 248, 248);
+	border: 2px solid darkgreen;
+	margin: 20px auto;
+	padding: 20px;
+	text-align: left;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
